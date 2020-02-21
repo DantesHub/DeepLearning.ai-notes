@@ -335,6 +335,7 @@ Here are the course summary as its given on the course [link](https://www.course
 - Gradient descent converges faster after normalization of the input matrices.
 
 ### General Notes
+-MINIMIZING THE LOSS = MAXIMIZING LOG PROBABILITY
 
 - The main steps for building a Neural Network are:
   - Define the model structure (such as number of input features and outputs)
